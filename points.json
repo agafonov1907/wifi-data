@@ -1,0 +1,4664 @@
+[
+  {
+    "name": "Зебляковская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ШАРЬИНСКИЙ, С ЗАБОЛОТЬЕ, УЛ ЦЕНТРАЛЬНАЯ, 16",
+    "type": "school",
+    "coordinates": [
+      58.294398,
+      45.850138
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Шекшемская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ШАРЬИНСКИЙ, П ШЕКШЕМА, УЛ ВОКЗАЛЬНАЯ, 48",
+    "type": "school",
+    "coordinates": [
+      58.334929,
+      45.183507
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Буйская школа-интернат",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н БУЙСКИЙ, Г БУЙ, УЛ 3 ИНТЕРНАЦИОНАЛА, 66",
+    "type": "school",
+    "coordinates": [
+      58.480562,
+      41.564446
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Вохомская школа-интернат",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ВОХОМСКИЙ, П ВОХМА, УЛ ШКОЛЬНАЯ, 23",
+    "type": "school",
+    "coordinates": [
+      58.932743,
+      46.752253
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Мантуровская школа-интернат",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАНТУРОВСКИЙ, Г МАНТУРОВО, УЛ ЛЕНИНА, 10",
+    "type": "school",
+    "coordinates": [
+      58.315081,
+      44.762521
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ильинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОЛОГРИВСКИЙ, С ИЛЬИНСКОЕ, ДОМ 99",
+    "type": "school",
+    "coordinates": [
+      58.767517,
+      44.58239
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Коткишевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕЙСКИЙ, С КОТКИШЕВО, УЛ ШКОЛЬНАЯ, 8",
+    "type": "school",
+    "coordinates": [
+      58.259895,
+      43.764501
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кужбальская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕЙСКИЙ, С КУЖБАЛ, УЛ СОВЕТСКАЯ, 10А",
+    "type": "school",
+    "coordinates": [
+      58.431705,
+      44.113218
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Воскресенская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ОСТРОВСКИЙ, С ВОСКРЕСЕНСКОЕ, УЛ ЗАОВРАЖНАЯ, 12",
+    "type": "school",
+    "coordinates": [
+      57.776083,
+      42.428599
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гуляевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ОСТРОВСКИЙ, Д ГУЛЯЕВКА, УЛ СОВХОЗНАЯ, 31",
+    "type": "school",
+    "coordinates": [
+      57.821742,
+      42.17522
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Клеванцовская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ОСТРОВСКИЙ, Д КЛЕВАНЦОВО, УЛ ЗАРЕЧНАЯ, 11",
+    "type": "school",
+    "coordinates": [
+      57.820257,
+      42.467639
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Юрьевская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ОСТРОВСКИЙ РАЙОН, ЮРЬЕВО СЕЛО, 36",
+    "type": "school",
+    "coordinates": [
+      57.878544,
+      42.109221
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Юрьевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ОСТРОВСКИЙ, П КРАСНАЯ ПОЛЯНА, УЛ ПЕРВОМАЙСКАЯ, ДОМ 16",
+    "type": "school",
+    "coordinates": [
+      57.871677,
+      42.16806
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Боровская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ПЫЩУГСКИЙ, П БОРОВСКОЙ, УЛ СВОБОДЫ, 5",
+    "type": "school",
+    "coordinates": [
+      58.830879,
+      45.555041
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Верхнеспасская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ПЫЩУГСКИЙ, С ВЕРХНЕСПАССКОЕ, УЛ ПЕРВОМАЙСКАЯ, 16",
+    "type": "school",
+    "coordinates": [
+      58.719071,
+      45.485179
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Пыщугская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ПЫЩУГСКИЙ, С ПЫЩУГ, УЛ КОЛХОЗНАЯ, 10, Б",
+    "type": "school",
+    "coordinates": [
+      58.886453,
+      45.707252
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Палкинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н АНТРОПОВСКИЙ, С ПАЛКИНО, УЛ ШОНИНА, 2",
+    "type": "school",
+    "coordinates": [
+      58.241369,
+      42.925565
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №5",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАНТУРОВСКИЙ, Г МАНТУРОВО, УЛ СОВЕТСКАЯ, 100",
+    "type": "school",
+    "coordinates": [
+      58.349921,
+      44.792857
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №7",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАНТУРОВСКИЙ, Г МАНТУРОВО, УЛ САДОВАЯ, 1, А",
+    "type": "school",
+    "coordinates": [
+      58.339119,
+      44.776444
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №5",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н БУЙСКИЙ, Г БУЙ, УЛ ДЗЕРЖИНСКОГО, 3",
+    "type": "school",
+    "coordinates": [
+      58.483973,
+      41.52386
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Вёшкинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КАДЫЙСКИЙ, П ВЁШКА, УЛ ШКОЛЬНАЯ, 1 А",
+    "type": "school",
+    "coordinates": [
+      57.799174,
+      42.998876
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Дубковская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КАДЫЙСКИЙ, П ДУБКИ, УЛ ПОЛЕВАЯ, 15",
+    "type": "school",
+    "coordinates": [
+      57.743731,
+      43.266529
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Паньковская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КАДЫЙСКИЙ, Д ПАНЬКОВО, УЛ САДИКОВСКАЯ, 4-А",
+    "type": "school",
+    "coordinates": [
+      57.720969,
+      43.242203
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Текунская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КАДЫЙСКИЙ, П ТЕКУН, УЛ КАДЫЙСКАЯ, 18 А",
+    "type": "school",
+    "coordinates": [
+      57.644073,
+      43.185663
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Чернышевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КАДЫЙСКИЙ, С ЧЕРНЫШЕВО, УЛ СОВЕТСКАЯ, 11",
+    "type": "school",
+    "coordinates": [
+      57.537758,
+      43.139894
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гридинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КРАСНОСЕЛЬСКИЙ, Д ГРИДИНО, МКР ЮБИЛЕЙНЫЙ, 7",
+    "type": "school",
+    "coordinates": [
+      57.716748,
+      41.147484
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Здемировская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КРАСНОСЕЛЬСКИЙ, С ЗДЕМИРОВО, ДОМ 46",
+    "type": "school",
+    "coordinates": [
+      57.504409,
+      41.277237
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Селезеневская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАКАРЬЕВСКИЙ, Д ЛОПАТЫ, УЛ МОЛОДЕЖНАЯ, 10",
+    "type": "school",
+    "coordinates": [
+      57.934296,
+      43.627122
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №1",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАКАРЬЕВСКИЙ, Г МАКАРЬЕВ, ПЛ РЕВОЛЮЦИИ, 11",
+    "type": "school",
+    "coordinates": [
+      57.877176,
+      43.813082
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №2",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАКАРЬЕВСКИЙ, Г МАКАРЬЕВ, УЛ ВЕТЛУЖСКАЯ, 34",
+    "type": "school",
+    "coordinates": [
+      57.889086,
+      43.814178
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Октябрьская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАНТУРОВСКИЙ, П ОКТЯБРЬСКИЙ, УЛ ГОРЬКОГО, 14",
+    "type": "school",
+    "coordinates": [
+      58.317203,
+      44.328311
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Межевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МЕЖЕВСКОЙ, С ГЕОРГИЕВСКОЕ, УЛ ОКТЯБРЬСКАЯ, 60",
+    "type": "school",
+    "coordinates": [
+      58.731405,
+      45.018298
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Леденгская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ПАВИНСКИЙ, С ЛЕДЕНГСК, ПЕР ШКОЛЬНЫЙ, 9",
+    "type": "school",
+    "coordinates": [
+      58.928345,
+      45.975507
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Павинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ПАВИНСКИЙ, С ПАВИНО, УЛ СОВЕТСКАЯ, 14",
+    "type": "school",
+    "coordinates": [
+      59.112053,
+      46.136745
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Якшангская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ПОНАЗЫРЕВСКИЙ ОКРУГ, П. ЯКШАНГА, УЛ. ЛЕНИНА, Д.19 А",
+    "type": "school",
+    "coordinates": [
+      58.357165,
+      45.921392
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Хмелевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ПОНАЗЫРЕВСКИЙ, С ХМЕЛЁВКА, УЛ СТРОИТЕЛЬНАЯ, 1",
+    "type": "school",
+    "coordinates": [
+      58.405758,
+      46.401946
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Галичская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СОЛИГАЛИЧСКИЙ, Г СОЛИГАЛИЧ, УЛ ГАГАРИНА, 8",
+    "type": "school",
+    "coordinates": [
+      59.074774,
+      42.285174
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Андреевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СУСАНИНСКИЙ, С АНДРЕЕВСКОЕ, УЛ ШКОЛЬНАЯ, 20А",
+    "type": "school",
+    "coordinates": [
+      58.16568,
+      41.294952
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Северная школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СУСАНИНСКИЙ, С СЕВЕРНОЕ, УЛ ЦЕНТРАЛЬНАЯ, 1А",
+    "type": "school",
+    "coordinates": [
+      58.030584,
+      41.426232
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Григорцевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕРЕХТСКИЙ, С ГРИГОРЦЕВО, УЛ ШКОЛЬНАЯ, 12",
+    "type": "school",
+    "coordinates": [
+      57.368895,
+      40.469948
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ёмсненская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕРЕХТСКИЙ, С ЁМСНА, УЛ ЦЕНТРАЛЬНАЯ, 60",
+    "type": "school",
+    "coordinates": [
+      57.394638,
+      40.725555
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Космынинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕРЕХТСКИЙ, П КОСМЫНИНО, УЛ ЛЕНИНА, 31",
+    "type": "school",
+    "coordinates": [
+      57.581679,
+      40.768782
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Фёдоровская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕРЕХТСКИЙ, С ФЁДОРОВСКОЕ, УЛ ЦЕНТРАЛЬНАЯ, 1А",
+    "type": "school",
+    "coordinates": [
+      57.418105,
+      40.564091
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Барановская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н БУЙСКИЙ, Д БАРАНОВО, УЛ ШКОЛЬНАЯ, 4",
+    "type": "school",
+    "coordinates": [
+      58.488484,
+      41.594872
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №1",
+    "address": "Костромская область, Буйский район, г.п.п. Чистые Боры, б-р Строителей д. 21",
+    "type": "school",
+    "coordinates": [
+      58.369722,
+      41.657323
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Василёвская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОСТРОМСКОЙ, П ВАСИЛЁВО, ПЕР ШКОЛЬНЫЙ, 6",
+    "type": "school",
+    "coordinates": [
+      58.020185,
+      41.251294
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Зарубинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОСТРОМСКОЙ, П ЗАРУБИНО, ПРОЕЗД ДЕТСКИЙ, 1",
+    "type": "school",
+    "coordinates": [
+      57.714878,
+      40.733657
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Минская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, МИНСКОЕ СЕЛО, КУКОЛЕВСКОГО УЛИЦА, 21",
+    "type": "school",
+    "coordinates": [
+      57.692791,
+      41.022053
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Мисковская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОСТРОМСКОЙ, П МИСКОВО, УЛ НЕКРАСОВА, 19",
+    "type": "school",
+    "coordinates": [
+      58.095281,
+      41.068891
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Саметская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, ПЕТРИЛОВО СЕЛО, 44",
+    "type": "school",
+    "coordinates": [
+      57.830048,
+      40.667245
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Саметская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОСТРОМСКОЙ, С САМЕТЬ, УЛ МАЛИНИНОЙ, 6",
+    "type": "school",
+    "coordinates": [
+      57.804564,
+      40.725564
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Сущёвская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОСТРОМСКОЙ, С СУЩЁВО, УЛ СОВЕТСКАЯ, 18Б",
+    "type": "school",
+    "coordinates": [
+      57.92428,
+      40.959647
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Чернопенская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОСТРОМСКОЙ, П СУХОНОГОВО, УЛ КОМСОМОЛЬСКАЯ, 18А",
+    "type": "school",
+    "coordinates": [
+      57.57792,
+      41.05467
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Шуваловская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОСТРОМСКОЙ, П ШУВАЛОВО, УЛ ПОБЕДЫ, 60",
+    "type": "school",
+    "coordinates": [
+      57.898787,
+      41.02738
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Яковлевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОСТРОМСКОЙ, С ЯКОВЛЕВСКОЕ, УЛ ПРОСВЕЩЕНИЯ, 1",
+    "type": "school",
+    "coordinates": [
+      57.818507,
+      40.834709
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ивановская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ШАРЬИНСКИЙ, Д БЕРЗИХА, УЛ ЦЕНТРАЛЬНАЯ, 28А",
+    "type": "school",
+    "coordinates": [
+      58.111017,
+      45.51168
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ивановская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ШАРЬИНСКИЙ, С РОЖДЕСТВЕНСКОЕ, ПЕР ШКОЛЬНЫЙ, 3",
+    "type": "school",
+    "coordinates": [
+      58.151692,
+      45.589159
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ивановская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ШАРЬИНСКИЙ, Д СЕРГЕЕВО, УЛ ЦЕНТРАЛЬНАЯ, 6",
+    "type": "school",
+    "coordinates": [
+      58.111877,
+      45.648143
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Илешевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КОЛОГРИВСКИЙ, П КРАСНЫЙ БОР, УЛ ШКОЛЬНАЯ, 2",
+    "type": "school",
+    "coordinates": [
+      58.945382,
+      44.142054
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ужугская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОЛОГРИВСКИЙ РАЙОН, УЖУГА ПОСЕЛОК, ДОРОЖНАЯ УЛИЦА, 8, А",
+    "type": "school",
+    "coordinates": [
+      58.941672,
+      44.179801
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Тотомицкая школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕЙСКИЙ, П ТОТОМИЦА, УЛ СОВЕТСКАЯ, 13",
+    "type": "school",
+    "coordinates": [
+      58.44098,
+      43.797856
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лебедевская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, М.Р-Н ОКТЯБРЬСКИЙ , С.П. НОВИНСКОЕ, Д ЛЕБЕДИ, Д. 102",
+    "type": "school",
+    "coordinates": [
+      58.885155,
+      47.238206
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Дымницкая школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, М.Р-Н ОСТРОВСКИЙ , С.П. КЛЕВАНЦОВСКОЕ, П ДЫМНИЦА, УЛ ШКОЛЬНАЯ, ЗД. 1А",
+    "type": "school",
+    "coordinates": [
+      57.808664,
+      42.677477
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Адищевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ОСТРОВСКИЙ, С АДИЩЕВО, УЛ ШКОЛЬНАЯ, 23",
+    "type": "school",
+    "coordinates": [
+      57.666161,
+      42.147417
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Александровская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ОСТРОВСКИЙ, П АЛЕКСАНДРОВСКОЕ, УЛ СОВЕТСКАЯ, 16",
+    "type": "school",
+    "coordinates": [
+      57.672264,
+      42.327538
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Горкинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ПЫЩУГСКИЙ, Д СЕРГЕЕВИЦА, УЛ НОВАЯ, 9",
+    "type": "school",
+    "coordinates": [
+      58.869722,
+      45.87026
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Котельниковская школа-детский сад",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, АНТРОПОВСКИЙ РАЙОН, КОТЕЛЬНИКОВО ДЕРЕВНЯ, 32",
+    "type": "school",
+    "coordinates": [
+      58.110104,
+      42.87984
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Михайловская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, М.Р-Н АНТРОПОВСКИЙ , С.П. КОТЕЛЬНИКОВСКОЕ, С МИХАЙЛОВСКОЕ, Д. 3",
+    "type": "school",
+    "coordinates": [
+      57.98602,
+      42.842084
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Просекская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н АНТРОПОВСКИЙ, Д ПРОСЕК, УЛ ЦЕНТРАЛЬНАЯ, ДОМ 3А",
+    "type": "school",
+    "coordinates": [
+      58.430004,
+      42.956494
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Завражная школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КАДЫЙСКИЙ, С ЗАВРАЖЬЕ, УЛ ШКОЛЬНАЯ, 8",
+    "type": "school",
+    "coordinates": [
+      57.406669,
+      43.159136
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Завражная школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КАДЫЙСКИЙ, С СТОЛПИНО, УЛ МОЛОДЕЖНАЯ, ДОМ 15",
+    "type": "school",
+    "coordinates": [
+      57.386048,
+      42.874909
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Горчухинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАКАРЬЕВСКИЙ, П ГОРЧУХА, УЛ 20 ПАРТСЪЕЗДА, 9",
+    "type": "school",
+    "coordinates": [
+      57.708239,
+      43.715157
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Усть-нейская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАКАРЬЕВСКИЙ, С НИКОЛО-МАКАРОВО, УЛ ЦЕНТРАЛЬНАЯ, 36",
+    "type": "school",
+    "coordinates": [
+      57.643249,
+      43.562003
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Унженская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАКАРЬЕВСКИЙ, С УНЖА, УЛ ШКОЛЬНАЯ, 12, А",
+    "type": "school",
+    "coordinates": [
+      58.020247,
+      44.006984
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Усть-нейская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАКАРЬЕВСКИЙ, С УСТЬ-НЕЯ, 1",
+    "type": "school",
+    "coordinates": [
+      57.819327,
+      43.669783
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Роговская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАНТУРОВСКИЙ, Д РОГОВО",
+    "type": "school",
+    "coordinates": [
+      58.373672,
+      44.611532
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Шулевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАНТУРОВСКИЙ, Д ЛЕОНТЬЕВО, ДОМ 63А",
+    "type": "school",
+    "coordinates": [
+      58.173697,
+      44.490017
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Никольская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МЕЖЕВСКОЙ, С НИКОЛА, УЛ НОВАЯ, 1 А",
+    "type": "school",
+    "coordinates": [
+      58.862826,
+      44.925394
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Петропавловская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, М.Р-Н ПАВИНСКИЙ , С.П. ПЕТРОПАВЛОВСКОЕ, Д БЕРЁЗОВКА, Д. 30",
+    "type": "school",
+    "coordinates": [
+      59.114977,
+      46.36295
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Верховская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СОЛИГАЛИЧСКИЙ, Д БУРДУКОВО, УЛ ВЕТЕРАНОВ, 17",
+    "type": "school",
+    "coordinates": [
+      59.065112,
+      42.576327
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Куземинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СОЛИГАЛИЧСКИЙ, Д КУЗЕМИНО, 61",
+    "type": "school",
+    "coordinates": [
+      59.225631,
+      42.511441
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Андреевская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СУСАНИНСКИЙ, С БУЯКОВО, УЛ ЦЕНТРАЛЬНАЯ, ДОМ 13",
+    "type": "school",
+    "coordinates": [
+      58.213651,
+      41.316808
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Головинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СУСАНИНСКИЙ, С ГОЛОВИНСКОЕ, УЛ СЕВЕРНАЯ, ДОМ 3",
+    "type": "school",
+    "coordinates": [
+      58.247711,
+      41.664483
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Северная школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СУСАНИНСКИЙ, Д МЕДВЕДКИ, УЛ САДОВАЯ, ДОМ 2",
+    "type": "school",
+    "coordinates": [
+      58.075283,
+      41.499857
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Попадьинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СУСАНИНСКИЙ, Д ПОПАДЬИНО, УЛ ШКОЛЬНАЯ, 11",
+    "type": "school",
+    "coordinates": [
+      58.182106,
+      41.894523
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Сумароковская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н СУСАНИНСКИЙ, С СУМАРОКОВО, УЛ ЦЕНТРАЛЬНАЯ, 39",
+    "type": "school",
+    "coordinates": [
+      58.204163,
+      41.798574
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лапшинская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, М.Р-Н ВОХОМСКИЙ , С.П. ЛАПШИНСКОЕ, С ЛАПШИНО, Д. 22",
+    "type": "school",
+    "coordinates": [
+      59.071324,
+      46.772968
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Петрецовская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ВОХОМСКИЙ, С НИКОЛА, УЛ ШКОЛЬНАЯ, 1",
+    "type": "school",
+    "coordinates": [
+      58.822778,
+      46.706762
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Покровская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н ВОХОМСКИЙ, С ПОКРОВ, УЛ МОЛОДЕЖНАЯ, 1",
+    "type": "school",
+    "coordinates": [
+      59.046218,
+      46.611757
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Неверовская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕРЕХТСКИЙ, Д НЕВЕРОВО, УЛ НЕВЕРОВСКАЯ, 1",
+    "type": "school",
+    "coordinates": [
+      57.539647,
+      40.701956
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Рудинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕРЕХТСКИЙ, П РУДИНО, УЛ ШКОЛЬНАЯ, 1",
+    "type": "school",
+    "coordinates": [
+      57.448206,
+      40.897914
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Татарская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕРЕХТСКИЙ, Д ТАТАРСКОЕ, УЛ МАРШАЛА НОВИКОВА, 13",
+    "type": "school",
+    "coordinates": [
+      57.516331,
+      40.907697
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Тетеринская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕРЕХТСКИЙ, С ТЕТЕРИНСКОЕ, УЛ МИРА, 2",
+    "type": "school",
+    "coordinates": [
+      57.503722,
+      40.59511
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Корёжская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н БУЙСКИЙ, П КОРЁГА, УЛ КОРЁЖСКАЯ, 8",
+    "type": "school",
+    "coordinates": [
+      58.470463,
+      41.454025
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кренёвская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н БУЙСКИЙ, Д КРЕНЁВО, УЛ ЦЕНТРАЛЬНАЯ, 22",
+    "type": "school",
+    "coordinates": [
+      58.555483,
+      41.34753
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Игодовская школа",
+    "address": "Костромская область, мкр. Островский, с/п Островское, с. Игодово, ул. Школьная, 14",
+    "type": "school",
+    "coordinates": [
+      58.014064,
+      42.348226
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Первомайская школа",
+    "address": "Костромская область, Макарьевский р-н, п Первомайка, ул Ленина, д. 2",
+    "type": "school",
+    "coordinates": [
+      57.650647,
+      43.659605
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Грудкинская школа",
+    "address": "Костромская область, Судиславский район, д. Грудки, ул. Центральная, 21",
+    "type": "school",
+    "coordinates": [
+      57.825682,
+      41.555589
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Зебляковская школа",
+    "address": "Костромская область, Шарьинский р-н, п Зебляки, Костромская ул., д.31",
+    "type": "school",
+    "coordinates": [
+      58.376735,
+      45.764519
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Конёвская школа",
+    "address": "Костромская область, Шарьинский район, село Конёво, 10",
+    "type": "school",
+    "coordinates": [
+      58.095652,
+      45.934319
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Николо-шангская школа",
+    "address": "Костромская область, Шарьинский район, с. Николо-Шанга, ул. Школьная, 18",
+    "type": "school",
+    "coordinates": [
+      58.453267,
+      45.537794
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Одоевская школа",
+    "address": "Костромская обл, Шарьинский район, с. Одоевское, ул. Советская, 9",
+    "type": "school",
+    "coordinates": [
+      58.161412,
+      45.868526
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Луптюгская школа",
+    "address": "Костромская область, Октябрьский район, с. Луптюг, ул. Советская, 66",
+    "type": "school",
+    "coordinates": [
+      58.803168,
+      47.12465
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Красноборская школа",
+    "address": "Костромская область, мкр. Островский, с/п Клеванцовское, д. Ломки, ул. Школьная, 1",
+    "type": "school",
+    "coordinates": [
+      57.952955,
+      42.563669
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Николо-поломская школа",
+    "address": "Костромская область, Парфеньевский р-н, п Николо-Полома, Полевая ул., д.20",
+    "type": "school",
+    "coordinates": [
+      58.336824,
+      43.384442
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Потрусовская школа",
+    "address": "Костромская область, Парфеньевский р-н, с Потрусово, д.44",
+    "type": "school",
+    "coordinates": [
+      58.444287,
+      43.686734
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Берёзовская школа",
+    "address": "Костромская область, Галичский район, с. Берёзовец, ул. Б.Лебедева, 10",
+    "type": "school",
+    "coordinates": [
+      58.634412,
+      42.270217
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Красильниковская школа",
+    "address": "Костромская область, Галичский район, п. Красильниково, ул. Школьная, 21",
+    "type": "school",
+    "coordinates": [
+      58.337636,
+      42.546386
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Курьяновская школа",
+    "address": "Костромская область, Галичский район, п.Курьяново, ул.Комсомольская, 6",
+    "type": "school",
+    "coordinates": [
+      58.578302,
+      42.60386
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лопаревская школа",
+    "address": "Костромская область, Галичский район, п. Лопарево, ул. Пионерская, 14",
+    "type": "school",
+    "coordinates": [
+      58.344358,
+      42.657912
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ореховская школа",
+    "address": "Костромская область, Галичский район, с.Орехово, ул. Советская, 35",
+    "type": "school",
+    "coordinates": [
+      58.452241,
+      41.996635
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Пронинская школа",
+    "address": "Костромская область, Галичский район, д. Пронино, ул. Центральная, 34",
+    "type": "school",
+    "coordinates": [
+      58.195058,
+      42.185559
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Россоловская школа",
+    "address": "Костромская область, Галичский район, поселок Россолово, Зеленая улица, 25",
+    "type": "school",
+    "coordinates": [
+      58.429254,
+      42.019218
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Степановская школа",
+    "address": "Костромская область, Галичский район, д. Степаново, ул. Центральная, 10",
+    "type": "school",
+    "coordinates": [
+      58.456262,
+      42.509833
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Чёлсменская школа",
+    "address": "Костромская область, Галичский район, д. Чёлсма, ул. Заводская, 2 А",
+    "type": "school",
+    "coordinates": [
+      58.366961,
+      42.26586
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Антоновская школа",
+    "address": "Костромская область, мкр. Красносельский, с/п Прискоковское, п. Гравийный Карьер, ул. Нагорная, 3",
+    "type": "school",
+    "coordinates": [
+      57.465792,
+      41.539581
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Дреневская школа",
+    "address": "Костромская область, мкр. Красносельский, с/п Боровиковское, д. Дренево, 37",
+    "type": "school",
+    "coordinates": [
+      57.625152,
+      41.147628
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Иконниковская школа",
+    "address": "Костромская область, Красносельский р-н, д Иконниково, д.37а",
+    "type": "school",
+    "coordinates": [
+      57.687283,
+      41.298356
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Никифоровская школа",
+    "address": "Костромская область, Красносельский район, деревня Афанасово, дом 92",
+    "type": "school",
+    "coordinates": [
+      57.58427,
+      41.556874
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Светочегорская школа",
+    "address": "Костромская область, Красносельский район, с. Светочева Гора, 56",
+    "type": "school",
+    "coordinates": [
+      57.445756,
+      41.343784
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Сидоровская",
+    "address": "Костромская область, Красносельский район, село Сидоровское, Советская улица, 11",
+    "type": "school",
+    "coordinates": [
+      57.449703,
+      41.225018
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Сопыревская школа",
+    "address": "Костромская область, Красносельский район, деревня Косевское, 44",
+    "type": "school",
+    "coordinates": [
+      57.570922,
+      41.333112
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Дреневская школа",
+    "address": "Костромская область, Красносельский р-н,  д. Харитоново, 44",
+    "type": "school",
+    "coordinates": [
+      57.624588,
+      41.237549
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Дорогинская школа",
+    "address": "Костромская область, Макарьевский район, п. Дорогиня, ул.Горького, 1 А",
+    "type": "school",
+    "coordinates": [
+      57.594598,
+      43.547441
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Нежитинская школа",
+    "address": "Костромская область, Макарьевский район, с. Нежитино, ул. Центральная, 71",
+    "type": "school",
+    "coordinates": [
+      57.474721,
+      43.298374
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Юровская школа",
+    "address": "Костромская область, Макарьевский район, с. Юрово, 123",
+    "type": "school",
+    "coordinates": [
+      57.505202,
+      43.826719
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Вочуровская школа",
+    "address": "Костромская область, г.о. город Мантурово, д. Знаменка, 66",
+    "type": "school",
+    "coordinates": [
+      58.379274,
+      44.838518
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Спасская школа",
+    "address": "Костромская область, г.о. город Мантурово, д. Подвигалиха, 68",
+    "type": "school",
+    "coordinates": [
+      58.449637,
+      44.775124
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Полдневицкая школа",
+    "address": "Костромская область, Поназыревский район, п. Полдневица, ул. Школьная, 1",
+    "type": "school",
+    "coordinates": [
+      58.610201,
+      46.5839
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Коровновская школа",
+    "address": "Костромская область, Солигаличский район, деревня Коровново, 78",
+    "type": "school",
+    "coordinates": [
+      58.974579,
+      42.371457
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Корцовская школа",
+    "address": "Костромская область, Солигаличский р-н, с Корцово, ул Центральная, д. 19А",
+    "type": "school",
+    "coordinates": [
+      58.867884,
+      42.207245
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Воронская школа",
+    "address": "Костромская область, Судиславский район, с.Воронье, ул.Полевая, 3",
+    "type": "school",
+    "coordinates": [
+      58.005029,
+      41.993509
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кобякинская школа",
+    "address": "Костромская область, Судиславский район, деревня Кобякино, улица Королева, 2",
+    "type": "school",
+    "coordinates": [
+      57.746954,
+      41.454663
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Расловская школа",
+    "address": "Костромская область, Судиславский район, п. Раслово, ул. Майская, 11",
+    "type": "school",
+    "coordinates": [
+      57.823286,
+      41.427687
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Жаровская школа",
+    "address": "Костромская область, Чухломский район, с. Ножкино, ул. Приозерная, 25",
+    "type": "school",
+    "coordinates": [
+      58.817248,
+      42.613301
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Судайская школа",
+    "address": "Костромская область, Чухломский район, с. Судай, ул. Пионерская, 1",
+    "type": "school",
+    "coordinates": [
+      58.978503,
+      43.134459
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Турдиевская школа",
+    "address": "Костромская область, Чухломский р-н, д Панкратово, ул Центральная д.7",
+    "type": "school",
+    "coordinates": [
+      59.162713,
+      43.487721
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Фёдоровская школа",
+    "address": "Костромская область, Чухломский район, д. Фёдоровскае, ул. Ветеранов, 5",
+    "type": "school",
+    "coordinates": [
+      58.821381,
+      42.539756
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кадетская школа-интернат",
+    "address": "Костромская область, г.о. город Кострома, г. Кострома, ш. Кинешемское, 72",
+    "type": "school",
+    "coordinates": [
+      57.741045,
+      41.01077
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа",
+    "address": "Костромская область, г.о. город Кострома, г. Кострома, проезд Березовый, 1",
+    "type": "school",
+    "coordinates": [
+      57.732392,
+      40.923705
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №1",
+    "address": "Костромская область, г.о. город Буй, г. Буй, ул. Заря Революции, 28",
+    "type": "school",
+    "coordinates": [
+      58.476816,
+      41.547854
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №2",
+    "address": "Костромская область, г.о. город Мантурово, г. Мантурово, ул. Вокзальная, 100",
+    "type": "school",
+    "coordinates": [
+      58.332019,
+      44.741832
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №44",
+    "address": "Костромская область, г Кострома, ул Профсоюзная, д. 50а",
+    "type": "school",
+    "coordinates": [
+      57.735737,
+      41.021666
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Антроповская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, АНТРОПОВСКИЙ РАЙОН, АНТРОПОВО ПОСЕЛОК, ПРОЛЕТАРСКАЯ УЛИЦА, 6А",
+    "type": "school",
+    "coordinates": [
+      58.391808,
+      43.005658
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №9",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, БУЙСКИЙ РАЙОН, БУЙ ГОРОД, 3 ИНТЕРНАЦИОНАЛА УЛИЦА, 10",
+    "type": "school",
+    "coordinates": [
+      58.486179,
+      41.532251
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №13",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, БУЙСКИЙ РАЙОН, БУЙ ГОРОД, ИВАНА СУСАНИНА УЛИЦА, 7",
+    "type": "school",
+    "coordinates": [
+      58.469381,
+      41.549687
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №37",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, БУЙСКИЙ РАЙОН, БУЙ ГОРОД, ОКТЯБРЬСКОЙ РЕВОЛЮЦИИ УЛИЦА, 130",
+    "type": "school",
+    "coordinates": [
+      58.4641,
+      41.556011
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Воробьёвицкая школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ВОХОМСКИЙ РАЙОН, ВОРОБЬЁВИЦА ПОСЕЛОК, АВИАЦИОННАЯ УЛИЦА, 7/1",
+    "type": "school",
+    "coordinates": [
+      59.232974,
+      46.706637
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Вохомская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ВОХОМСКИЙ РАЙОН, ВОХМА ПОСЕЛОК, СОВЕТСКАЯ УЛИЦА, 70",
+    "type": "school",
+    "coordinates": [
+      58.936992,
+      46.757445
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лицей №1",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ВОЛГОРЕЧЕНСК ГОРОД, НАБЕРЕЖНАЯ УЛИЦА, 20",
+    "type": "school",
+    "coordinates": [
+      57.441154,
+      41.158489
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №3",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ВОЛГОРЕЧЕНСК ГОРОД, ПАРКОВАЯ УЛИЦА, 31",
+    "type": "school",
+    "coordinates": [
+      57.432846,
+      41.166097
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гимназия №25",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ДАВЫДОВСКИЙ-1 МИКРОРАЙОН, 32",
+    "type": "school",
+    "coordinates": [
+      57.73626,
+      41.0067
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №22",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ДАВЫДОВСКИЙ-2 МИКРОРАЙОН, ДОМ 19",
+    "type": "school",
+    "coordinates": [
+      57.734646,
+      41.010401
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лицей №17",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ДАВЫДОВСКИЙ-2 МИКРОРАЙОН, 21",
+    "type": "school",
+    "coordinates": [
+      57.735112,
+      41.008686
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №11",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ПАНОВО МИКРОРАЙОН, 12",
+    "type": "school",
+    "coordinates": [
+      57.738211,
+      40.90573
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №21",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ПАНОВО МИКРОРАЙОН, 9",
+    "type": "school",
+    "coordinates": [
+      57.739023,
+      40.909359
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №37",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ЧЕРНОРЕЧЬЕ МИКРОРАЙОН, 2",
+    "type": "school",
+    "coordinates": [
+      57.748207,
+      40.975646
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа № 3",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ЧЕРНОРЕЧЬЕ МИКРОРАЙОН, 23",
+    "type": "school",
+    "coordinates": [
+      57.74571,
+      40.968288
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лицей №20",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ЮБИЛЕЙНЫЙ МИКРОРАЙОН, 12",
+    "type": "school",
+    "coordinates": [
+      57.736798,
+      40.982724
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №4",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ЯКИМАНИХА МИКРОРАЙОН, 19",
+    "type": "school",
+    "coordinates": [
+      57.790357,
+      40.939048
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №36",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, НОВЫЙ ПОСЕЛОК, ДОМ 9",
+    "type": "school",
+    "coordinates": [
+      57.798277,
+      41.002676
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа",
+    "address": "Костромская область, Костромской район, м. Козловы горы, д. 15",
+    "type": "school",
+    "coordinates": [
+      57.685556,
+      41.008236
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лицей №32",
+    "address": "Костромская область, г. Кострома, ул. Беговая, 4 А",
+    "type": "school",
+    "coordinates": [
+      57.777138,
+      40.951723
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №18",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, БОЕВАЯ УЛИЦА, 64",
+    "type": "school",
+    "coordinates": [
+      57.781093,
+      40.951652
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №1",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, БОРОВАЯ УЛИЦА, 2",
+    "type": "school",
+    "coordinates": [
+      57.796819,
+      40.921208
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №7",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, БОРЬБЫ УЛИЦА, 50",
+    "type": "school",
+    "coordinates": [
+      57.782858,
+      40.916042
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа-интернат",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ВОЙКОВА УЛИЦА, 23",
+    "type": "school",
+    "coordinates": [
+      57.765167,
+      40.946908
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа-интернат",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ВОКЗАЛЬНАЯ УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      57.753942,
+      40.891626
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №8",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ГЛАЗКОВСКАЯ 2-Я УЛИЦА, 27",
+    "type": "school",
+    "coordinates": [
+      57.748371,
+      41.008218
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №6",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ГОЛУБКОВА УЛИЦА, 15",
+    "type": "school",
+    "coordinates": [
+      57.750287,
+      40.917713
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №26",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ГОРЬКОГО УЛИЦА, 7",
+    "type": "school",
+    "coordinates": [
+      57.777498,
+      40.926508
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гимназия №1",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ЛАГЕРНАЯ УЛИЦА, 13",
+    "type": "school",
+    "coordinates": [
+      57.756429,
+      40.955613
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №14",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ЛИНЕЙНАЯ УЛИЦА, 11",
+    "type": "school",
+    "coordinates": [
+      57.804478,
+      40.910482
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №23",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, МАШИНОСТРОИТЕЛЕЙ УЛИЦА, 3",
+    "type": "school",
+    "coordinates": [
+      57.748611,
+      40.908874
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №34",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, НИКИТСКАЯ УЛИЦА, 106А",
+    "type": "school",
+    "coordinates": [
+      57.761413,
+      40.972699
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №38",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, НИКИТСКАЯ УЛИЦА, 70",
+    "type": "school",
+    "coordinates": [
+      57.763089,
+      40.964524
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №41",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, НОВОСЕЛОВ УЛИЦА, ДОМ 11",
+    "type": "school",
+    "coordinates": [
+      57.745628,
+      41.002811
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №29",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ОСТРОВСКОГО УЛИЦА, 38",
+    "type": "school",
+    "coordinates": [
+      57.773049,
+      40.91165
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №13",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ПАРТИЗАНСКАЯ УЛИЦА, 37",
+    "type": "school",
+    "coordinates": [
+      57.800517,
+      40.97552
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №10",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ПРОСВЕЩЕНИЯ УЛИЦА, 22",
+    "type": "school",
+    "coordinates": [
+      57.778324,
+      40.890018
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №24",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ПРОФСОЮЗНАЯ УЛИЦА, 20",
+    "type": "school",
+    "coordinates": [
+      57.729149,
+      41.005928
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №30",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, СМОЛЕНСКАЯ УЛИЦА, 28А",
+    "type": "school",
+    "coordinates": [
+      57.764841,
+      40.939776
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №28",
+    "address": "Костромская область, г. Кострома, ул. Советская, д. 113",
+    "type": "school",
+    "coordinates": [
+      57.758811,
+      40.968468
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №35",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, СОВХОЗНАЯ УЛИЦА, ДОМ 21",
+    "type": "school",
+    "coordinates": [
+      57.784653,
+      40.944429
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №31",
+    "address": "Костромская область, г. Кострома, ул. Строительная, 8",
+    "type": "school",
+    "coordinates": [
+      57.755344,
+      40.901202
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №33",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, СУСЛОВА УЛИЦА, 6",
+    "type": "school",
+    "coordinates": [
+      57.736371,
+      40.916123
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №2",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ТКАЧЕЙ УЛИЦА, ДОМ 12",
+    "type": "school",
+    "coordinates": [
+      57.785881,
+      40.921289
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №19",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ФРУНЗЕ УЛИЦА, 14",
+    "type": "school",
+    "coordinates": [
+      57.756371,
+      40.905963
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №15",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ШАГОВА УЛИЦА, 201",
+    "type": "school",
+    "coordinates": [
+      57.773481,
+      40.973597
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №3",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ШАГОВА УЛИЦА, 9",
+    "type": "school",
+    "coordinates": [
+      57.768619,
+      40.93099
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №5",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ЮНОШЕСКАЯ УЛИЦА, 35",
+    "type": "school",
+    "coordinates": [
+      57.756736,
+      40.952523
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гимназия №1",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ГАЛИЧСКИЙ РАЙОН, ГАЛИЧ ГОРОД, ДОЛМАТОВА УЛИЦА, 13",
+    "type": "school",
+    "coordinates": [
+      58.37984,
+      42.34104
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №2",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ГАЛИЧСКИЙ РАЙОН, ГАЛИЧ ГОРОД, СВОБОДЫ УЛИЦА, ДОМ 59А",
+    "type": "school",
+    "coordinates": [
+      58.372752,
+      42.342828
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №4",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ГАЛИЧСКИЙ РАЙОН, ГАЛИЧ ГОРОД, СОВЕТСКАЯ УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      58.377952,
+      42.346888
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кадыйская школа им. М.А.Четвертного",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КАДЫЙСКИЙ РАЙОН, КАДЫЙ ПОСЕЛОК ГОРОДСКОГО ТИПА, МАКАРЬЕВСКАЯ УЛИЦА, 81 А, 1",
+    "type": "school",
+    "coordinates": [
+      57.79443,
+      43.197305
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кологривская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОЛОГРИВСКИЙ РАЙОН, КОЛОГРИВ ГОРОД, ВЕРХНЯЯ УЛИЦА, 16",
+    "type": "school",
+    "coordinates": [
+      58.82951,
+      44.312123
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кузьмищенская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, КУЗЬМИЩИ ДЕРЕВНЯ, ЗЕЛЕНАЯ УЛИЦА, 14",
+    "type": "school",
+    "coordinates": [
+      57.874433,
+      41.129931
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Некрасовская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, НЕКРАСОВО ДЕРЕВНЯ, ШКОЛЬНАЯ УЛИЦА, 5",
+    "type": "school",
+    "coordinates": [
+      57.790233,
+      40.85944
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Апраксинская школа",
+    "address": "Костромская область, КОСТРОМСКОЙ район, п. Апраксино, ул. Молодежная, 1 Д",
+    "type": "school",
+    "coordinates": [
+      57.84308,
+      40.979158
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Караваевская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, КАРАВАЕВО ПОСЕЛОК, ШТЕЙМАНА УЛИЦА, 58, А",
+    "type": "school",
+    "coordinates": [
+      57.734915,
+      41.063546
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Никольская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, НИКОЛЬСКОЕ ПОСЕЛОК, ШКОЛЬНАЯ УЛИЦА, 2",
+    "type": "school",
+    "coordinates": [
+      57.804656,
+      41.098257
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №13",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, ПРИБРЕЖНЫЙ ПОСЕЛОК, МИРА УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      57.89473,
+      40.882005
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ильинская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, ИЛЬИНСКОЕ СЕЛО, ПОЧТОВАЯ УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      57.64533,
+      40.927208
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кузнецовская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, КУЗНЕЦОВО СЕЛО, 46",
+    "type": "school",
+    "coordinates": [
+      57.941611,
+      41.241834
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Шолоховская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КРАСНОСЕЛЬСКИЙ РАЙОН, ШОЛОХОВО ДЕРЕВНЯ, ЦЕНТРАЛЬНАЯ УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      57.550447,
+      41.203692
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Красносельская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КРАСНОСЕЛЬСКИЙ РАЙОН, КРАСНОЕ-НА-ВОЛГЕ ПОСЕЛОК ГОРОДСКОГО ТИПА, ЛЕНИНА УЛИЦА, 44А",
+    "type": "school",
+    "coordinates": [
+      57.512256,
+      41.255013
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лицей №1",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, МАНТУРОВСКИЙ РАЙОН, МАНТУРОВО ГОРОД, ЮБИЛЕЙНАЯ УЛИЦА, 13, А",
+    "type": "school",
+    "coordinates": [
+      58.307625,
+      44.758622
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №1",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕЙСКИЙ РАЙОН, НЕЯ ГОРОД, БОЛЬНИЧНАЯ УЛИЦА, 8",
+    "type": "school",
+    "coordinates": [
+      58.289228,
+      43.863073
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Первомайская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕЙСКИЙ РАЙОН, ЕЛЕНСКИЙ ПОСЕЛОК, СОВЕТСКАЯ УЛИЦА, 20",
+    "type": "school",
+    "coordinates": [
+      58.30476,
+      43.739348
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Номженская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕЙСКИЙ РАЙОН, НОМЖА ПОСЕЛОК, МОЛОДЕЖНАЯ УЛИЦА, 11",
+    "type": "school",
+    "coordinates": [
+      58.307833,
+      43.592645
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №3",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕРЕХТСКИЙ РАЙОН, НЕРЕХТА ГОРОД, ДРУЖБЫ УЛИЦА, 13А",
+    "type": "school",
+    "coordinates": [
+      57.469248,
+      40.55359
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №1",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕРЕХТСКИЙ РАЙОН, НЕРЕХТА ГОРОД, К.ЛИБКНЕХТА УЛИЦА, 2",
+    "type": "school",
+    "coordinates": [
+      57.46325,
+      40.563364
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №4",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕРЕХТСКИЙ РАЙОН, НЕРЕХТА ГОРОД, К.МАРКСА УЛИЦА, 5",
+    "type": "school",
+    "coordinates": [
+      57.462703,
+      40.574422
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №2",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕРЕХТСКИЙ РАЙОН, НЕРЕХТА ГОРОД, ОКТЯБРЬСКАЯ УЛИЦА, 2",
+    "type": "school",
+    "coordinates": [
+      57.460689,
+      40.558351
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Нерехтская школа-интернат для детей с ограниченными возможностями здоровья",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕРЕХТСКИЙ РАЙОН, НЕРЕХТА ГОРОД, ШКОЛЬНАЯ УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      57.453054,
+      40.570928
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гимназия",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕРЕХТСКИЙ РАЙОН, НЕРЕХТА ГОРОД, ШКОЛЬНАЯ УЛИЦА, 3",
+    "type": "school",
+    "coordinates": [
+      57.452739,
+      40.572239
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лавровская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕРЕХТСКИЙ РАЙОН, ЛАВРОВО ДЕРЕВНЯ, ШКОЛЬНАЯ УЛИЦА, 2",
+    "type": "school",
+    "coordinates": [
+      57.473574,
+      40.531761
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Вохтомская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ПАРФЕНЬЕВСКИЙ РАЙОН, ВОХТОМА ПОСЕЛОК, КОМСОМОЛЬСКАЯ УЛИЦА, 9-А",
+    "type": "school",
+    "coordinates": [
+      58.703278,
+      43.433373
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Парфеньевская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ПАРФЕНЬЕВСКИЙ РАЙОН, ПАРФЕНЬЕВО СЕЛО, ПИОНЕРСКАЯ УЛИЦА, 39",
+    "type": "school",
+    "coordinates": [
+      58.479155,
+      43.401591
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Галичская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, СОЛИГАЛИЧСКИЙ РАЙОН, СОЛИГАЛИЧ ГОРОД, ГАГАРИНА УЛИЦА, 33-А",
+    "type": "school",
+    "coordinates": [
+      59.072892,
+      42.280143
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Расловская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, СУДИСЛАВСКИЙ РАЙОН, МИХАЙЛОВСКОЕ ДЕРЕВНЯ, ИМ. АЛЕКСЕЯ ГОЛУБКОВА УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      57.894128,
+      41.388673
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Фадеевская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, СУДИСЛАВСКИЙ РАЙОН, ФАДЕЕВО ДЕРЕВНЯ, ЗЕЛЕНАЯ УЛИЦА, 2",
+    "type": "school",
+    "coordinates": [
+      57.91056,
+      41.587533
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Глебовская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, СУДИСЛАВСКИЙ РАЙОН, ГЛЕБОВО ПОСЕЛОК, ЦЕНТРАЛЬНАЯ УЛИЦА, 9",
+    "type": "school",
+    "coordinates": [
+      57.927859,
+      41.689007
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Судиславская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, СУДИСЛАВСКИЙ РАЙОН, СУДИСЛАВЛЬ ПОСЕЛОК ГОРОДСКОГО ТИПА, ОКТЯБРЬСКАЯ УЛИЦА, 23",
+    "type": "school",
+    "coordinates": [
+      57.880358,
+      41.714231
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Сусанинская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, СУСАНИНСКИЙ РАЙОН, СУСАНИНО ПОСЕЛОК ГОРОДСКОГО ТИПА, ЛЕОНОВА УЛИЦА, 16",
+    "type": "school",
+    "coordinates": [
+      58.159242,
+      41.610215
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Чухломская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ЧУХЛОМСКИЙ РАЙОН, ЧУХЛОМА ГОРОД, ЯКОВЛЕВА УЛИЦА, 22",
+    "type": "school",
+    "coordinates": [
+      58.758431,
+      42.689964
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Вигская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ЧУХЛОМСКИЙ РАЙОН, ВИГА ПОСЕЛОК, ШКОЛЬНАЯ УЛИЦА, ДОМ 15А",
+    "type": "school",
+    "coordinates": [
+      59.091752,
+      43.290173
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №6",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ШАРЬИНСКИЙ РАЙОН, ШАРЬЯ ГОРОД, МИКРОРАЙОН 1 УЛИЦА, 7",
+    "type": "school",
+    "coordinates": [
+      58.369854,
+      45.518264
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гимназия №3",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ШАРЬИНСКИЙ РАЙОН, ШАРЬЯ ГОРОД, ВЕТЛУЖСКИЙ ПОСЕЛОК ГОРОДСКОГО ТИПА, РАБОЧАЯ УЛИЦА, 46",
+    "type": "school",
+    "coordinates": [
+      58.391313,
+      45.464482
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №7",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ШАРЬИНСКИЙ РАЙОН, ШАРЬЯ ГОРОД, ВЕТЛУЖСКИЙ ПОСЕЛОК ГОРОДСКОГО ТИПА, ЦЕНТРАЛЬНАЯ УЛИЦА, 18",
+    "type": "school",
+    "coordinates": [
+      58.394058,
+      45.47316
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №4",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ШАРЬИНСКИЙ РАЙОН, ШАРЬЯ ГОРОД, ИМ С.А.ГРОМОВА УЛИЦА, 44",
+    "type": "school",
+    "coordinates": [
+      58.364723,
+      45.492635
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №2",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ШАРЬИНСКИЙ РАЙОН, ШАРЬЯ ГОРОД, КУЙБЫШЕВА УЛИЦА, 43",
+    "type": "school",
+    "coordinates": [
+      58.357033,
+      45.521031
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Шарьинская школа-интернат для детей с ограниченными возможностями здоровья",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ШАРЬИНСКИЙ РАЙОН, ШАРЬЯ ГОРОД, ЛЕНИНА УЛИЦА, 126",
+    "type": "school",
+    "coordinates": [
+      58.38177,
+      45.497432
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №21",
+    "address": "Костромская обл, Шарьинский р-н, г Шарья, ул Полярников, д 4",
+    "type": "school",
+    "coordinates": [
+      58.375956,
+      45.520483
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Савинская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ПАРФЕНЬЕВСКИЙ РАЙОН, САВИНО ДЕРЕВНЯ, 52",
+    "type": "school",
+    "coordinates": [
+      58.696306,
+      43.340479
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гимназия №33",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, СУСЛОВА УЛИЦА, 8",
+    "type": "school",
+    "coordinates": [
+      57.735564,
+      40.914282
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Никольская школа-интернат для детей с ограниченными возможностями здоровья",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, НИКОЛЬСКОЕ ПОСЕЛОК, МИРА УЛИЦА, 12",
+    "type": "school",
+    "coordinates": [
+      57.80618,
+      41.106584
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Боговаровская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ОКТЯБРЬСКИЙ РАЙОН, БОГОВАРОВО СЕЛО, ПЕРВОМАЙСКАЯ УЛИЦА, 30,",
+    "type": "school",
+    "coordinates": [
+      58.974027,
+      47.021802
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Островская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ОСТРОВСКИЙ РАЙОН, ОСТРОВСКОЕ ПОСЕЛОК, ШКОЛЬНЫЙ ПЕРЕУЛОК, 3",
+    "type": "school",
+    "coordinates": [
+      57.80573,
+      42.236377
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Подольская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КРАСНОСЕЛЬСКИЙ РАЙОН, ПОДОЛЬСКОЕ СЕЛО, ВОЛЖСКАЯ УЛИЦА, 12В",
+    "type": "school",
+    "coordinates": [
+      57.49551,
+      41.335636
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Введенская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ЧУХЛОМСКИЙ РАЙОН, ВВЕДЕНСКОЕ СЕЛО, ЗЕЛЕНАЯ УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      58.756359,
+      43.036381
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гавриловская школа № 1",
+    "address": "57046, КОСТРОМСКАЯ ОБЛАСТЬ, БУЙСКИЙ РАЙОН, БОЛЬШОЙ ДОР ДЕРЕВНЯ, ЦЕНТРАЛЬНАЯ УЛИЦА, 2",
+    "type": "school",
+    "coordinates": [
+      58.340863,
+      41.388296
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Ликургская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, БУЙСКИЙ РАЙОН, ЛИКУРГА СЕЛО, ОВРАЖНАЯ УЛИЦА, 1",
+    "type": "school",
+    "coordinates": [
+      58.583397,
+      41.840139
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Талицкая школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, БУЙСКИЙ РАЙОН, ТАЛИЦА ПОСЕЛОК, ПУШКИНА УЛИЦА, 35",
+    "type": "school",
+    "coordinates": [
+      58.727018,
+      41.558715
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Шушкодомская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, БУЙСКИЙ РАЙОН, ШУШКОДОМ СЕЛО, ШКОЛЬНАЯ УЛИЦА, 2",
+    "type": "school",
+    "coordinates": [
+      58.65519,
+      41.306854
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Середняковская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, СЕРЕДНЯЯ ДЕРЕВНЯ, ВОЛЖСКАЯ УЛИЦА, 70",
+    "type": "school",
+    "coordinates": [
+      57.703733,
+      40.96306
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №3",
+    "address": "Костромская область, город Кострома, ул. Юных Пионеров, д.2",
+    "type": "school",
+    "coordinates": [
+      57.777729,
+      40.925259
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Коткишевская школа",
+    "address": "157330 Костромская область город Нея улица Советская 92",
+    "type": "school",
+    "coordinates": [
+      58.295859,
+      43.852653
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Коткишевская школа",
+    "address": "157330 Костромская область город Нея улица Любимова 45",
+    "type": "school",
+    "coordinates": [
+      58.297898,
+      43.858007
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лицей №3",
+    "address": "Костромская область, г. Галич, ул. Калинина, д.13",
+    "type": "school",
+    "coordinates": [
+      58.393582,
+      42.369463
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Поназыревская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ПОНАЗЫРЕВО ПОСЕЛОК ГОРОДСКОГО ТИПА, ШКОЛЬНАЯ УЛИЦА, 3",
+    "type": "school",
+    "coordinates": [
+      58.351263,
+      46.321682
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Островская школа",
+    "address": "Костромская область, р-н Островский , п.Островское, ул.Сахарова, д.1а",
+    "type": "school",
+    "coordinates": [
+      57.80526,
+      42.238542
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №1",
+    "address": "Костромская область, Макарьевский район, г.Макарьев, пл.Революции, д.27",
+    "type": "school",
+    "coordinates": [
+      57.878583,
+      43.809121
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Гимназия №28",
+    "address": "Костромская область, г. Кострома, ул. Советская, 111 В",
+    "type": "school",
+    "coordinates": [
+      57.759925,
+      40.968055
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Кужбальская школа",
+    "address": "157340 Костромская область Нейский район с. Михали ул. Молодёжная д.2а",
+    "type": "school",
+    "coordinates": [
+      58.384482,
+      44.033556
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Юровская школа",
+    "address": "Костромская область, Макарьевский район, село Юрово д. 286",
+    "type": "school",
+    "coordinates": [
+      57.504641,
+      43.827976
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Центр образования 'Волжский'",
+    "address": "Костромская область, г. Кострома, пр-кт Речной, 143",
+    "type": "school",
+    "coordinates": [
+      57.822102,
+      40.887754
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №9",
+    "address": "Костромская область, г. Кострома, ул. Даремская, 2",
+    "type": "school",
+    "coordinates": [
+      57.746103,
+      40.91995
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №16",
+    "address": "Костромская обл, г Кострома, ул Муромская, д 7",
+    "type": "school",
+    "coordinates": [
+      57.7441,
+      40.873633
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №4",
+    "address": "Костромская обл, Галичский р-н, г Галич, ул Свободы, д 59а",
+    "type": "school",
+    "coordinates": [
+      58.372752,
+      42.342828
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №30",
+    "address": "Костромская обл, г Кострома, ул Шагова, д 61б",
+    "type": "school",
+    "coordinates": [
+      57.770769,
+      40.943782
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лицей №34",
+    "address": "Костромская обл, г Кострома, ул Никитская, д 130Б",
+    "type": "school",
+    "coordinates": [
+      57.760371,
+      40.976113
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Василёвская школа",
+    "address": "Костромская обл, Костромской р-н, поселок Василёво, ул Ершова, д 6",
+    "type": "school",
+    "coordinates": [
+      58.021138,
+      41.25557
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Судиславская школа",
+    "address": "Костромская обл, Судиславский р-н, пгт Судиславль, ул Комсомольская, д 35А",
+    "type": "school",
+    "coordinates": [
+      57.881358,
+      41.715965
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Горчухинская школа",
+    "address": "Костромская обл, Макарьевский р-н, поселок Горчуха, ул 20 Партсъезда, д 12",
+    "type": "school",
+    "coordinates": [
+      57.707484,
+      43.715004
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Введенская Школа",
+    "address": "Костромская область, Чухломский район, п. Якша, ул. Зелёная, д.1",
+    "type": "school",
+    "coordinates": [
+      58.756359,
+      43.036381
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Екатеринкинская школа",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н КАДЫЙСКИЙ, Д ЕКАТЕРИНКИНО, УЛ ЦЕНТРАЛЬНАЯ, 4",
+    "type": "school",
+    "coordinates": [
+      57.926502,
+      43.176033
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №3",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н МАНТУРОВСКИЙ, Г МАНТУРОВО, УЛ ЛЕНИНА, 2, Б/В",
+    "type": "school",
+    "coordinates": [
+      58.314286,
+      44.767946
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №2",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н НЕЙСКИЙ, Г НЕЯ, УЛ МАХОТИНА, 23",
+    "type": "school",
+    "coordinates": [
+      58.283811,
+      43.894694
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа №2",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, БУЙСКИЙ РАЙОН, БУЙ ГОРОД, РЕСПУБЛИКАНСКАЯ УЛИЦА, 4А",
+    "type": "school",
+    "coordinates": [
+      58.472567,
+      41.546884
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Лицей №3",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ГАЛИЧСКИЙ РАЙОН, ГАЛИЧ ГОРОД, ШКОЛЬНАЯ УЛИЦА, 7",
+    "type": "school",
+    "coordinates": [
+      58.377292,
+      42.370576
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Шунгенская школа",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМСКОЙ РАЙОН, ШУНГА СЕЛО, СОВЕТСКАЯ УЛИЦА, 18-Б",
+    "type": "school",
+    "coordinates": [
+      57.806137,
+      40.806484
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Буйский техникум градостроительства и предпринимательства",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н БУЙСКИЙ, Г БУЙ, ПЛ ХАЗОВА, 1",
+    "type": "school",
+    "coordinates": [
+      58.47564,
+      41.530643
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Буйский областной колледж искусств",
+    "address": "ОБЛ КОСТРОМСКАЯ, Р-Н БУЙСКИЙ, Г БУЙ, УЛ КАРЛА МАРКСА, 1\\4",
+    "type": "school",
+    "coordinates": [
+      58.480858,
+      41.531298
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Нерехтский политехнический техникум",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, НЕРЕХТСКИЙ РАЙОН, НЕРЕХТА ГОРОД, ДРУЖБЫ УЛИЦА, 6",
+    "type": "school",
+    "coordinates": [
+      57.467994,
+      40.558297
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Шарьинский аграрный техникум",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ШАРЬИНСКИЙ РАЙОН, ШАРЬЯ ГОРОД, ИВАНА ШАТРОВА УЛИЦА, 10",
+    "type": "school",
+    "coordinates": [
+      58.380901,
+      45.518848
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Волгореченский промышленный техникум",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, ВОЛГОРЕЧЕНСК ГОРОД, ЗЕЛЕНОВА УЛИЦА, 4",
+    "type": "school",
+    "coordinates": [
+      57.438892,
+      41.155201
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Областной колледж культуры",
+    "address": "Костромская область, г. Кострома, пр-кт МИРА, 11",
+    "type": "school",
+    "coordinates": [
+      57.770803,
+      40.932419
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Областной музыкальный колледж",
+    "address": "Костромская область, г. Кострома, мкр. Юбилейный, 10",
+    "type": "school",
+    "coordinates": [
+      57.7364,
+      40.980595
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Машиностроительный техникум",
+    "address": "Костромская область, г.о. город Кострома, г. Кострома, ул. Фестивальная, 31",
+    "type": "school",
+    "coordinates": [
+      57.754465,
+      41.013896
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Техникум торговли и питания",
+    "address": "Костромская область, г.о. город Кострома, г. Кострома, ш. Кинешемское, 45/51",
+    "type": "school",
+    "coordinates": [
+      57.746353,
+      41.008218
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Политехнический колледж",
+    "address": "Костромская область, г.о. город Кострома, г. Кострома, ул. Ленина, 149",
+    "type": "school",
+    "coordinates": [
+      57.789259,
+      40.941572
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Областной медицинский колледж",
+    "address": "1563, КОСТРОМСКАЯ ОБЛАСТЬ, Г. КОСТРОМА, УЛ. БОРОВАЯ, ДОМ 6",
+    "type": "school",
+    "coordinates": [
+      57.800008,
+      40.921792
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Энергетический техникум",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, ТЕКСТИЛЬЩИКОВ ПРОСПЕКТ, 73",
+    "type": "school",
+    "coordinates": [
+      57.77745,
+      40.908667
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа",
+    "address": "Костромская область, г.о. город Кострома, г. Кострома, ул. Центральная, 50",
+    "type": "school",
+    "coordinates": [
+      57.739633,
+      40.988348
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа",
+    "address": "Костромская область, г.о. город Шарья, г. Шарья, ул. им 50-летия Советской Власти, 7",
+    "type": "school",
+    "coordinates": [
+      58.382968,
+      45.504358
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа",
+    "address": "Костромская область, г.о. город Шарья, г. Шарья, ул. им хирурга Крылова В.М., 5",
+    "type": "school",
+    "coordinates": [
+      58.388917,
+      45.49798
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Колледж бытового сервиса",
+    "address": "городской округ г.Кострома, Кинешемское шоссе, д.23",
+    "type": "school",
+    "coordinates": [
+      57.753015,
+      40.993756
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Галичский аграрно-технологический колледж",
+    "address": "городской округ г. Галич, ул. Гладышева, д. 71",
+    "type": "school",
+    "coordinates": [
+      58.395148,
+      42.394463
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "​Шарьинский медицинский колледж",
+    "address": "1575​05, городской округ г. Шарья, ул. им. хирурга Крылова В.М., д. 9",
+    "type": "school",
+    "coordinates": [
+      58.38919,
+      45.498519
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Буйский техникум железнодорожного транспорта",
+    "address": "городской округ г. Буй, ул. М.Горького, д.127",
+    "type": "school",
+    "coordinates": [
+      58.462288,
+      41.561724
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Мантуровский политехнический техникум",
+    "address": "городской округ г. Мантурово, ул. Больничная, д. 2",
+    "type": "school",
+    "coordinates": [
+      58.319382,
+      44.759682
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Областной медицинский колледж",
+    "address": "гордской округ г. Кострома, ул. Маршала Новикова, д. 59",
+    "type": "school",
+    "coordinates": [
+      57.772301,
+      40.943064
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Торгово-экономический колледж",
+    "address": "городской округ г. Кострома, ул. Долматова, д. 25а",
+    "type": "school",
+    "coordinates": [
+      57.765575,
+      40.936946
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Галичский педагогический колледж",
+    "address": "городской округ г. Галич, ул. Гагарина, д. 57а",
+    "type": "school",
+    "coordinates": [
+      58.388143,
+      42.356078
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Колледж отраслевых технологий строительства и лесной промышленности",
+    "address": "городской округ г. Кострома, ул. Советская, д. 127",
+    "type": "school",
+    "coordinates": [
+      57.756376,
+      40.977496
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Автодорожный колледж",
+    "address": "городской округ г.Кострома, ул.Профсоюзная, д. 36",
+    "type": "school",
+    "coordinates": [
+      57.731326,
+      41.015324
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Чухломский лесопромышленный техникум",
+    "address": "Костромская область, Чухломский муниципальный район, п. Анфимово, ул. Центральная, д. 7 в",
+    "type": "school",
+    "coordinates": [
+      58.726434,
+      42.704947
+    ],
+    "free": true,
+    "password": null,
+    "speed": "50 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Филиал,чухломский лесопромышленный техникум",
+    "address": "Костромская область, Солигаличский муниципальный район, г. Солигач, ул. Красноармейская,  д. 7 а",
+    "type": "school",
+    "coordinates": [
+      59.084896,
+      42.280278
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Автотранспортный колледж",
+    "address": "муниципальный район г. Нея и Нейский район, ул. Кирова, д. 62",
+    "type": "school",
+    "coordinates": [
+      58.299676,
+      43.860702
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Автотранспортный колледж",
+    "address": "КОСТРОМСКАЯ ОБЛАСТЬ, КОСТРОМА ГОРОД, СПАСОКУКОЦКОГО УЛИЦА, 40",
+    "type": "school",
+    "coordinates": [
+      57.774859,
+      40.917758
+    ],
+    "free": true,
+    "password": null,
+    "speed": "100 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия города Буя",
+    "address": "Костромская область, г. Буй, пл. Революции, 12",
+    "type": "school",
+    "coordinates": [
+      58.482472,
+      41.534236
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Избирательная комиссия Костромской области",
+    "address": "Костромская область, г. Кострома, ул. Советская, 52",
+    "type": "school",
+    "coordinates": [
+      57.762114,
+      40.947007
+    ],
+    "free": true,
+    "password": null,
+    "speed": "140 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Школа",
+    "address": "Костромская область, Антроповский район, п. Антропово, ул. Октябрьская, д.12",
+    "type": "school",
+    "coordinates": [
+      58.397077,
+      43.004221
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия города Волгореченска",
+    "address": "Костромская область, г. Волгореченск, ул. Набережная, д. 22",
+    "type": "school",
+    "coordinates": [
+      57.4405,
+      41.159764
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Вохомского района",
+    "address": "Костромская область, Вохомский район, п. Вохма, ул. Советская, д. 39",
+    "type": "school",
+    "coordinates": [
+      58.930597,
+      46.757805
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия города Галича",
+    "address": "Костромская область, г. Галич, пл. Революции, д. 23А",
+    "type": "school",
+    "coordinates": [
+      58.382086,
+      42.350113
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Кадыйского района",
+    "address": "Костромская область, Кадыйский район, п. Кадый, ул. Центральная, д. 3",
+    "type": "school",
+    "coordinates": [
+      57.781678,
+      43.190136
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Кологривского муниципального округа",
+    "address": "Костромская область, Кологривский район, г. Кологрив, ул. Набережная речки Киченки, д. 13",
+    "type": "school",
+    "coordinates": [
+      58.827665,
+      44.309186
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия № 1 города Костромы",
+    "address": "Костромская область, г. Кострома, ул. Свердлова, д. 2",
+    "type": "school",
+    "coordinates": [
+      57.767265,
+      40.929203
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Костромского района",
+    "address": "Костромская область, г. Кострома, ул. М. Новикова, д. 7",
+    "type": "school",
+    "coordinates": [
+      57.776889,
+      40.935931
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Красносельского района",
+    "address": "Костромская область, Красносельский район, п. Красное-на-Волге, Красная площадь, д.15",
+    "type": "school",
+    "coordinates": [
+      57.508881,
+      41.240388
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Макарьевского района",
+    "address": "Костромская область, Макарьевский район, г. Макарьев, пл. Революции, д. 8",
+    "type": "school",
+    "coordinates": [
+      57.879281,
+      43.812229
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия города Мантурово",
+    "address": "Костромская область, г. Мантурово, ул. Советская, д. 27",
+    "type": "school",
+    "coordinates": [
+      58.335751,
+      44.776247
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Межевского муниципального округа",
+    "address": "Костромская область, Межевской район, с. Георгиевское, ул. Октябрьская, д. 39",
+    "type": "school",
+    "coordinates": [
+      58.731545,
+      45.021119
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Нейского муниципального округа",
+    "address": "Костромская область, Нейский район, г. Нея, ул. Соловьева, д. 6",
+    "type": "school",
+    "coordinates": [
+      58.294417,
+      43.871868
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия города Нерехта и Нерехтского района",
+    "address": "Костромская область, Нерехтский район, г. Нерехта, ул. Победы, д. 1",
+    "type": "school",
+    "coordinates": [
+      57.46342,
+      40.556016
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Октябрьского района",
+    "address": "Костромская область, Октябрьский район, с. Боговарово, ул. Победы, д .37",
+    "type": "school",
+    "coordinates": [
+      58.974532,
+      47.015091
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Островского района",
+    "address": "Костромская область, Островский район, п. Островское, ул. Советская, д. 56",
+    "type": "school",
+    "coordinates": [
+      57.801534,
+      42.23741
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Павинского района",
+    "address": "Костромская область, Павинский район, с. Павино, ул. Октябрьская, д. 15",
+    "type": "school",
+    "coordinates": [
+      59.110704,
+      46.143662
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Парфеньевского муниципального округа",
+    "address": "Костромская область, Парфеньевский район, с. Парфеньево, ул. Маркова, д. 17",
+    "type": "school",
+    "coordinates": [
+      58.482994,
+      43.402974
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Поназыревского муниципального округа",
+    "address": "Костромская область, Поназыревский район, п. Поназырево, ул. Свободы, д. 1",
+    "type": "school",
+    "coordinates": [
+      58.350526,
+      46.31648
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Пыщугского муниципального округа",
+    "address": "Костромская область, Пыщугский район, с. Пыщуг, ул. Чкалова, д. 6",
+    "type": "school",
+    "coordinates": [
+      58.886727,
+      45.716783
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Солигаличского района",
+    "address": "Костромская область, Солигаличский район, г. Солигалич, ул. Коммунистическая, д. 1",
+    "type": "school",
+    "coordinates": [
+      59.078626,
+      42.285084
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Судиславского района",
+    "address": "Верный адрес: 157860, Костромская область, Судиславский район, п. Судиславль, ул. Советская, д. 2",
+    "type": "school",
+    "coordinates": [
+      57.879746,
+      41.709875
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Сусанинского района",
+    "address": "Костромская область, Сусанинский район, п. Сусанино, ул. Ленина, д. 2А",
+    "type": "school",
+    "coordinates": [
+      58.147997,
+      41.584075
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Чухломского района",
+    "address": "Костромская область, Чухломский район, г. Чухлома, пл. Революции, д. 11",
+    "type": "school",
+    "coordinates": [
+      58.757455,
+      42.68019
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия города Шарьи",
+    "address": "Костромская область, г. Шарья, ул. Ленина, 13",
+    "type": "school",
+    "coordinates": [
+      58.371312,
+      45.518956
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Буйского района",
+    "address": "Костромская область, г. Буй, ул. Октябрьской революции, д. 1",
+    "type": "school",
+    "coordinates": [
+      58.470256,
+      41.546237
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Галичского района",
+    "address": "Костромская область, г. Галич, пл. Революции, д. 23А",
+    "type": "school",
+    "coordinates": [
+      58.382086,
+      42.350113
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия Шарьинского района",
+    "address": "Костромская область, г. Шарья, ул. Октябрьская, 18",
+    "type": "school",
+    "coordinates": [
+      58.369311,
+      45.518085
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия №2 города Костромы",
+    "address": "Костромская область, г. Кострома, ул. Голубкова, д. 6",
+    "type": "school",
+    "coordinates": [
+      57.750772,
+      40.91023
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  },
+  {
+    "name": "Территориальная избирательная комиссия № 1 города Костромы",
+    "address": "Костромская область, г. Кострома, ул. Советская, д. 3",
+    "type": "school",
+    "coordinates": [
+      57.766785,
+      40.929661
+    ],
+    "free": true,
+    "password": null,
+    "speed": "60 Мбит/с",
+    "ssid": null,
+    "working_hours": "08:00-18:00"
+  }
+]
